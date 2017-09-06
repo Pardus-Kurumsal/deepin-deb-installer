@@ -1,0 +1,44 @@
+From: =?utf-8?q?Yunusemre_=C5=9Eent=C3=BCrk?=
+ <yunusemre.senturk@pardus.org.tr>
+Date: Wed, 6 Sep 2017 14:17:19 +0300
+Subject: Update TR Translations
+
+---
+ translations/deepin-deb-installer_tr.ts | 8 ++++----
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+diff --git a/translations/deepin-deb-installer_tr.ts b/translations/deepin-deb-installer_tr.ts
+index 61c1dfe..4a03f30 100644
+--- a/translations/deepin-deb-installer_tr.ts
++++ b/translations/deepin-deb-installer_tr.ts
+@@ -84,12 +84,12 @@
+     <message>
+         <location filename="../multipleinstallpage.cpp" line="47"/>
+         <source>OK</source>
+-        <translation>TAMAM</translation>
++        <translation>Tamam</translation>
+     </message>
+     <message>
+         <location filename="../multipleinstallpage.cpp" line="49"/>
+         <source>Back</source>
+-        <translation type="unfinished"/>
++        <translation>Geri</translation>
+     </message>
+ </context>
+ <context>
+@@ -155,7 +155,7 @@
+     <message>
+         <location filename="../singleinstallpage.cpp" line="108"/>
+         <source>Back</source>
+-        <translation type="unfinished"/>
++        <translation>Geri</translation>
+     </message>
+     <message>
+         <location filename="../singleinstallpage.cpp" line="123"/>
+@@ -236,4 +236,4 @@ Tüm bağımlılıklar da kaldırılacaktır</translation>
+         <translation>Deepin Paket Yöneticisi, kullanıcıların yerel yazılımı yüklemesine ve kaldırmasına yardımcı olan, toplu kurulumu destekleyen bir uygulamadır.</translation>
+     </message>
+ </context>
+-</TS>
+\ No newline at end of file
++</TS>

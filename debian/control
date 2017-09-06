@@ -1,13 +1,14 @@
 Source: deepin-deb-installer
 Section: utils
 Priority: optional
-Maintainer: Deepin Packages Builder <packages@deepin.com>
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
 Build-Depends: debhelper (>= 9), cmake, pkg-config, libqt5widgets5, libqt5concurrent5, libqapt-dev, libdtkwidget-dev 
 Standards-Version: 3.9.8
-Homepage: https://www.deepin.com/
+Homepage: http://pardus.org.tr
 
 Package: deepin-deb-installer
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: deepin deb installer
- Deepin Package Manager is used to help users install and remove local software, supports to bulk install.
+Description: Deepin Package Installer
+ Deepin Package Manager is used to help users install and 
+ remove local software, supports to bulk install.

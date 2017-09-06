@@ -1,0 +1,27 @@
+From: =?utf-8?q?Yunusemre_=C5=9Eent=C3=BCrk?=
+ <yunusemre.senturk@pardus.org.tr>
+Date: Wed, 6 Sep 2017 14:23:01 +0300
+Subject: Add tr_TR translations into desktop file
+
+---
+ deepin-deb-installer.desktop | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/deepin-deb-installer.desktop b/deepin-deb-installer.desktop
+index c3d4a60..cf2b6da 100644
+--- a/deepin-deb-installer.desktop
++++ b/deepin-deb-installer.desktop
+@@ -1,10 +1,13 @@
+ [Desktop Entry]
+ Name=Deepin Package Manager
+ Name[zh_CN]=深度软件包管理器
++Name[tr_TR]=Paket Yükleyici
+ GenericName=Deepin Package Manager
+ GenericName[zh_CN]=深度软件包管理器
++GenericName[tr_TR]=Deepin Paket Yükleyicisi
+ Comment=Deepin Package Manager is used to help users install and remove local software, supports to bulk install.
+ Comment[zh_CN]=深度软件包管理器用于帮助用户安装和卸载本地软件，支持批量安装。
++Comment[tr_TR]=Paket Yükleyicisi kullanıcılara lokal paketleri yükleyip kaldırma konusunda yardımcı olur.
+ Exec=deepin-deb-installer %f
+ Icon=deepin-deb-installer
+ Terminal=false
