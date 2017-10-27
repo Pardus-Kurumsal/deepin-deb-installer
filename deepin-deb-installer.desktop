@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Deepin Package Manager
+Name[zh_CN]=深度软件包管理器
+GenericName=Deepin Package Manager
+GenericName[zh_CN]=深度软件包管理器
+Comment=Deepin Package Manager is used to help users install and remove local software, supports to bulk install.
+Comment[zh_CN]=深度软件包管理器用于帮助用户安装和卸载本地软件，支持批量安装。
+Exec=deepin-deb-installer %f
+Icon=deepin-deb-installer
+Terminal=false
+Type=Application
+Categories=System;
+MimeType=application/vnd.debian.binary-package;application/x-deb;
+StartupNotify=true
+Keywords=package;apt;dpkg;install
